@@ -35,6 +35,28 @@
                 "vanilla base"
             ],
             "image": "https://antonkorchynskyi.github.io/JS_Lab8/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Carambola Delight",
+            "calories": 450,
+            "type": "milkshake-type ice-cream",
+            "ingredients": [
+                "carambola syrup",
+                "skittles",
+                "vanilla base"
+            ],
+            "image": "https://antonkorchynskyi.github.io/JS_Lab8/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Caramel Joy",
+            "calories": 500,
+            "type": "ice-cream",
+            "ingredients": [
+                "caramel syrup",
+                "chocolate sprinkle",
+                "vanilla base"
+            ],
+            "image": "https://antonkorchynskyi.github.io/JS_Lab8/images/ice-cream-xtra2.svg"
         }
     ]
 }
